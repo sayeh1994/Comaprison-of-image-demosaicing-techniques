@@ -1,4 +1,4 @@
-# Comaprison-of-image-demosaicing-techniques
+# Comaprison of image demosaicing techniques
 This project is an in-depth look at 4 different image demosaicing techniques.
 
 **Image Demosaicing:** A demosaicing (also de-mosaicing, demosaicking or debayering) algorithm is a digital image process used to reconstruct a full color image from the incomplete color samples output from an image sensor overlaid with a color filter array (CFA). It is also known as CFA interpolation or color reconstruction [[Wikipedia](https://en.wikipedia.org/wiki/Demosaicing)]. 
